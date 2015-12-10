@@ -1,0 +1,2 @@
+class SweeperDevError < Exception
+end
